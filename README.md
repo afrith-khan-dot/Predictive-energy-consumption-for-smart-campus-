@@ -109,6 +109,11 @@ The interactive dashboard is built using Streamlit. It reads directly from the p
    `uv run streamlit run app.py`
 8. Run Tests:
    `uv run python -m unittest discover -s tests`
+9. Deploy the dashboard on [Streamlit Community Cloud](https://share.streamlit.io/):
+   connect this GitHub repository, select the `main` branch, and set the app file
+   to `app.py`. Streamlit installs the dependencies listed in `requirements.txt`.
+   The dashboard currently reads its data from the repository's CSV files, so it
+   does not need database secrets to deploy.
 
 ## 16. Results and Limitations
 - The model successfully predicts 7-day demand with a reasonable margin for the available data volume.
