@@ -1,0 +1,5 @@
+Date,Actual_Consumption,Expected_Consumption,Deviation,Is_Anomaly,Explanation
+2026-07-05,16103.0,24954.0,-8851.0,1,Unusually LOW consumption compared to recent median.
+2026-07-25,13203.0,19334.0,-6131.0,1,Unusually LOW consumption compared to recent median.
+2026-08-22,13786.0,25668.0,-11882.0,1,Unusually LOW consumption compared to recent median.
+2026-09-11,34038.0,30480.0,3558.0,1,Unusually HIGH consumption compared to recent median.

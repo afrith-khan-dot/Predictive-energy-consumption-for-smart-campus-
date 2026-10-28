@@ -1,0 +1,517 @@
+{
+  "SF Block": {
+    "id": "sf-block",
+    "name": "SF Block",
+    "category": "Academic blocks"
+  },
+  "SF Block Labs": {
+    "id": "sf-block-labs",
+    "name": "SF Block Labs",
+    "category": "Academic blocks"
+  },
+  "Mech Block Entrance": {
+    "id": "mechanic-front",
+    "name": "Mech Block Entrance",
+    "category": "Academic blocks"
+  },
+  "Mechanic Block": {
+    "id": "mechanic-back",
+    "name": "Mechanic Block",
+    "category": "Academic blocks"
+  },
+  "AS Block": {
+    "id": "as-main-left",
+    "name": "AS Block",
+    "category": "Academic blocks"
+  },
+  "Special Labs": {
+    "id": "as-main-right",
+    "name": "Special Labs",
+    "category": "Academic blocks"
+  },
+  "AS rib 1": {
+    "id": "as-rib-1",
+    "name": "AS rib 1",
+    "category": "Academic blocks"
+  },
+  "AS rib 3": {
+    "id": "as-rib-3",
+    "name": "AS rib 3",
+    "category": "Academic blocks"
+  },
+  "AS rib 5": {
+    "id": "as-rib-5",
+    "name": "AS rib 5",
+    "category": "Academic blocks"
+  },
+  "AS rib 7": {
+    "id": "as-rib-7",
+    "name": "AS rib 7",
+    "category": "Academic blocks"
+  },
+  "AS rib 9": {
+    "id": "as-rib-9",
+    "name": "AS rib 9",
+    "category": "Academic blocks"
+  },
+  "AS rib 11": {
+    "id": "as-rib-11",
+    "name": "AS rib 11",
+    "category": "Academic blocks"
+  },
+  "Fashion Resource Centre": {
+    "id": "fashion-centre",
+    "name": "Fashion Resource Centre",
+    "category": "Academic blocks"
+  },
+  "AS rib 2": {
+    "id": "as-rib-2",
+    "name": "AS rib 2",
+    "category": "Academic blocks"
+  },
+  "AS rib 4": {
+    "id": "as-rib-4",
+    "name": "AS rib 4",
+    "category": "Academic blocks"
+  },
+  "AS rib 6": {
+    "id": "as-rib-6",
+    "name": "AS rib 6",
+    "category": "Academic blocks"
+  },
+  "AS rib 8": {
+    "id": "as-rib-8",
+    "name": "AS rib 8",
+    "category": "Academic blocks"
+  },
+  "AS rib 10": {
+    "id": "as-rib-10",
+    "name": "AS rib 10",
+    "category": "Academic blocks"
+  },
+  "AS rib 12": {
+    "id": "as-rib-12",
+    "name": "AS rib 12",
+    "category": "Academic blocks"
+  },
+  "Chiller Plant": {
+    "id": "chiller-plant",
+    "name": "Chiller Plant",
+    "category": "Chiller plant"
+  },
+  "Spinning Lab": {
+    "id": "spinning-lab",
+    "name": "Spinning Lab",
+    "category": "Academic blocks"
+  },
+  "Maintenance & Stationary Store": {
+    "id": "main-store",
+    "name": "Maintenance & Stationary Store",
+    "category": "Academic blocks"
+  },
+  "Library": {
+    "id": "library",
+    "name": "Library",
+    "category": "Academic blocks"
+  },
+  "Main Auditorium": {
+    "id": "main-auditorium",
+    "name": "Main Auditorium",
+    "category": "Academic blocks"
+  },
+  "Placement and Training Cell": {
+    "id": "placement-and-training",
+    "name": "Placement and Training Cell",
+    "category": "Academic blocks"
+  },
+  "Internet Centre": {
+    "id": "internet-centre",
+    "name": "Internet Centre",
+    "category": "Academic blocks"
+  },
+  "BIT Community Radio Centre": {
+    "id": "radio",
+    "name": "BIT Community Radio Centre",
+    "category": "Academic blocks"
+  },
+  "IB Block (1)": {
+    "id": "ib-block-1",
+    "name": "IB Block (1)",
+    "category": "Academic blocks"
+  },
+  "IB Block (2)": {
+    "id": "ib-block-2",
+    "name": "IB Block (2)",
+    "category": "Academic blocks"
+  },
+  "IB rib 1": {
+    "id": "ib-rib-1",
+    "name": "IB rib 1",
+    "category": "Academic blocks"
+  },
+  "IB rib 3": {
+    "id": "ib-rib-3",
+    "name": "IB rib 3",
+    "category": "Academic blocks"
+  },
+  "IB rib 5": {
+    "id": "ib-rib-5",
+    "name": "IB rib 5",
+    "category": "Academic blocks"
+  },
+  "IB rib 7": {
+    "id": "ib-rib-7",
+    "name": "IB rib 7",
+    "category": "Academic blocks"
+  },
+  "IB rib 9": {
+    "id": "ib-rib-9",
+    "name": "IB rib 9",
+    "category": "Academic blocks"
+  },
+  "IB rib 11": {
+    "id": "ib-rib-11",
+    "name": "IB rib 11",
+    "category": "Academic blocks"
+  },
+  "IB rib 2": {
+    "id": "ib-rib-2",
+    "name": "IB rib 2",
+    "category": "Academic blocks"
+  },
+  "IB rib 4": {
+    "id": "ib-rib-4",
+    "name": "IB rib 4",
+    "category": "Academic blocks"
+  },
+  "IB rib 6": {
+    "id": "ib-rib-6",
+    "name": "IB rib 6",
+    "category": "Academic blocks"
+  },
+  "IB rib 8": {
+    "id": "ib-rib-8",
+    "name": "IB rib 8",
+    "category": "Academic blocks"
+  },
+  "IB rib 10": {
+    "id": "ib-rib-10",
+    "name": "IB rib 10",
+    "category": "Academic blocks"
+  },
+  "IB rib 12": {
+    "id": "ib-rib-12",
+    "name": "IB rib 12",
+    "category": "Academic blocks"
+  },
+  "Cafeteria": {
+    "id": "cafeteria",
+    "name": "Cafeteria",
+    "category": "Hostels"
+  },
+  "Boys Mess": {
+    "id": "boys-mess",
+    "name": "Boys Mess",
+    "category": "Hostels"
+  },
+  "Sapphire Hostel": {
+    "id": "sapphire",
+    "name": "Sapphire Hostel",
+    "category": "Hostels"
+  },
+  "Ruby Hostel": {
+    "id": "ruby",
+    "name": "Ruby Hostel",
+    "category": "Hostels"
+  },
+  "Pearl Hostel": {
+    "id": "pearl",
+    "name": "Pearl Hostel",
+    "category": "Hostels"
+  },
+  "Diamond Hostel": {
+    "id": "diamond",
+    "name": "Diamond Hostel",
+    "category": "Hostels"
+  },
+  "Emerald Hostel": {
+    "id": "emerald",
+    "name": "Emerald Hostel",
+    "category": "Hostels"
+  },
+  "Coral Hostel (NRI Hostel)": {
+    "id": "coral",
+    "name": "Coral Hostel (NRI Hostel)",
+    "category": "Hostels"
+  },
+  "Outdoor Gym": {
+    "id": "outdoor-gym-3",
+    "name": "Outdoor Gym",
+    "category": "Passive Outdoor Space"
+  },
+  "Gym": {
+    "id": "indoor-gym",
+    "name": "Gym",
+    "category": "Hostels"
+  },
+  "Laundry (Boys)": {
+    "id": "boys-laundry",
+    "name": "Laundry (Boys)",
+    "category": "Hostels"
+  },
+  "Power House": {
+    "id": "power-house",
+    "name": "Power House",
+    "category": "Staff Quarters"
+  },
+  "Tennis Court 1": {
+    "id": "tennis-court-1",
+    "name": "Tennis Court 1",
+    "category": "Passive Outdoor Space"
+  },
+  "Tennis Court 2": {
+    "id": "tennis-court-2",
+    "name": "Tennis Court 2",
+    "category": "Passive Outdoor Space"
+  },
+  "Basket Ball Court": {
+    "id": "basket-ball-court",
+    "name": "Basket Ball Court",
+    "category": "Passive Outdoor Space"
+  },
+  "Volley Ball Court": {
+    "id": "volleyball-court-girls",
+    "name": "Volley Ball Court",
+    "category": "Passive Outdoor Space"
+  },
+  "Empty Playground": {
+    "id": "playground-3",
+    "name": "Empty Playground",
+    "category": "Passive Outdoor Space"
+  },
+  "Agri Playground": {
+    "id": "agri-playground",
+    "name": "Agri Playground",
+    "category": "Passive Outdoor Space"
+  },
+  "Day Scholar Mess": {
+    "id": "dayscholar-mess-2",
+    "name": "Day Scholar Mess",
+    "category": "Hostels"
+  },
+  "PET Room": {
+    "id": "pet-room",
+    "name": "PET Room",
+    "category": "Hostels"
+  },
+  "Recreation hall": {
+    "id": "recreation-hall",
+    "name": "Recreation hall",
+    "category": "Hostels"
+  },
+  "Basketball Court": {
+    "id": "girls-basketball-court",
+    "name": "Basketball Court",
+    "category": "Passive Outdoor Space"
+  },
+  "Girls Mess": {
+    "id": "girls-mess",
+    "name": "Girls Mess",
+    "category": "Hostels"
+  },
+  "Cauvery Hostel": {
+    "id": "kaveri",
+    "name": "Cauvery Hostel",
+    "category": "Hostels"
+  },
+  "Narmadha Hostel": {
+    "id": "narmadha",
+    "name": "Narmadha Hostel",
+    "category": "Hostels"
+  },
+  "Ganga Hostel": {
+    "id": "ganga",
+    "name": "Ganga Hostel",
+    "category": "Hostels"
+  },
+  "Yamuna Hostel": {
+    "id": "yamuna",
+    "name": "Yamuna Hostel",
+    "category": "Hostels"
+  },
+  "North Bhavani": {
+    "id": "north-bhavani",
+    "name": "North Bhavani",
+    "category": "Hostels"
+  },
+  "Old Bhavani": {
+    "id": "middle-bhavani",
+    "name": "Old Bhavani",
+    "category": "Hostels"
+  },
+  "South Bhavani": {
+    "id": "south-bhavani",
+    "name": "South Bhavani",
+    "category": "Hostels"
+  },
+  "Medical Centre": {
+    "id": "medical-centre",
+    "name": "Medical Centre",
+    "category": "Academic blocks"
+  },
+  "West Gate": {
+    "id": "west-gate",
+    "name": "West Gate",
+    "category": "Staff Quarters"
+  },
+  "Cricket Ground": {
+    "id": "cricket-ground",
+    "name": "Cricket Ground",
+    "category": "Passive Outdoor Space"
+  },
+  "Football Ground": {
+    "id": "football-ground",
+    "name": "Football Ground",
+    "category": "Passive Outdoor Space"
+  },
+  "Empty Playgorund": {
+    "id": "playground-2",
+    "name": "Empty Playgorund",
+    "category": "Passive Outdoor Space"
+  },
+  "West Parking Lot": {
+    "id": "west-parking",
+    "name": "West Parking Lot",
+    "category": "Staff Quarters"
+  },
+  "Staff Quarters": {
+    "id": "staff-quarters",
+    "name": "Staff Quarters",
+    "category": "Staff Quarters"
+  },
+  "Smart Agri Fields": {
+    "id": "smart-agri-fields",
+    "name": "Smart Agri Fields",
+    "category": "Passive Outdoor Space"
+  },
+  "Main Gate": {
+    "id": "main-gate",
+    "name": "Main Gate",
+    "category": "Staff Quarters"
+  },
+  "Main Parking Area": {
+    "id": "main-parking",
+    "name": "Main Parking Area",
+    "category": "Staff Quarters"
+  },
+  "Principal Office": {
+    "id": "principal-office",
+    "name": "Principal Office",
+    "category": "Academic blocks"
+  },
+  "Lake": {
+    "id": "lake",
+    "name": "Lake",
+    "category": "Passive Outdoor Space"
+  },
+  "Research Park": {
+    "id": "research-park",
+    "name": "Research Park",
+    "category": "Academic blocks"
+  },
+  "BIT Guest House": {
+    "id": "guest-house",
+    "name": "BIT Guest House",
+    "category": "Staff Quarters"
+  },
+  "Day Scholar Buses": {
+    "id": "bus",
+    "name": "Day Scholar Buses",
+    "category": "Staff Quarters"
+  },
+  "Herbal Garden": {
+    "id": "herbal-garden",
+    "name": "Herbal Garden",
+    "category": "Passive Outdoor Space"
+  },
+  "ATM": {
+    "id": "atm-1",
+    "name": "ATM",
+    "category": "Staff Quarters"
+  },
+  "West Gate (Staffs)": {
+    "id": "west-gate-staffs",
+    "name": "West Gate (Staffs)",
+    "category": "Staff Quarters"
+  },
+  "Principal Cabin": {
+    "id": "principal-room",
+    "name": "Principal Cabin",
+    "category": "Academic blocks"
+  },
+  "Dean Cabin": {
+    "id": "dean-room",
+    "name": "Dean Cabin",
+    "category": "Academic blocks"
+  },
+  "Visitor Hall (Boys)": {
+    "id": "boys-visitor-hall",
+    "name": "Visitor Hall (Boys)",
+    "category": "Hostels"
+  },
+  "Boys Hostels": {
+    "id": "boys-hostels",
+    "name": "Boys Hostels",
+    "category": "Hostels"
+  },
+  "Canteens (boys)": {
+    "id": "boys-canteen",
+    "name": "Canteens (boys)",
+    "category": "Hostels"
+  },
+  "Girls Hostels": {
+    "id": "girls-hostels",
+    "name": "Girls Hostels",
+    "category": "Hostels"
+  },
+  "Visitors Hut (Girls)": {
+    "id": "girls-visitor-hut",
+    "name": "Visitors Hut (Girls)",
+    "category": "Hostels"
+  },
+  "Parlour (Boys)": {
+    "id": "parlour-boys",
+    "name": "Parlour (Boys)",
+    "category": "Hostels"
+  },
+  "Canteen (Girls)": {
+    "id": "canteen-girls",
+    "name": "Canteen (Girls)",
+    "category": "Hostels"
+  },
+  "Laundry (Girls)": {
+    "id": "laundry-girls",
+    "name": "Laundry (Girls)",
+    "category": "Hostels"
+  },
+  "Parlour (Girls)": {
+    "id": "parlour-girls",
+    "name": "Parlour (Girls)",
+    "category": "Hostels"
+  },
+  "Throw Ball Court": {
+    "id": "throwball-court-girls",
+    "name": "Throw Ball Court",
+    "category": "Passive Outdoor Space"
+  },
+  "Girls Gym": {
+    "id": "girls-gym",
+    "name": "Girls Gym",
+    "category": "Hostels"
+  },
+  "Dance Hall": {
+    "id": "dance-hall",
+    "name": "Dance Hall",
+    "category": "Hostels"
+  }
+}

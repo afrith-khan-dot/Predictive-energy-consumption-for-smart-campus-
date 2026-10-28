@@ -1,0 +1,35 @@
+// Total Consumption Measure
+Total Consumption = SUM('energy_readings'[total_consumption])
+
+// Average Daily Consumption Measure
+Average Daily Consumption = AVERAGE('energy_readings'[total_consumption])
+
+// Peak Daily Consumption Measure
+Peak Daily Consumption = MAX('energy_readings'[total_consumption])
+
+// Previous Period Consumption (requires Date table)
+Previous Period Consumption = CALCULATE([Total Consumption], DATEADD('DateTable'[Date], -1, MONTH))
+
+// Consumption Change Percentage
+Consumption Change % = 
+VAR Prev = [Previous Period Consumption]
+RETURN IF(ISBLANK(Prev), BLANK(), ([Total Consumption] - Prev) / Prev)
+
+// Forecasted Consumption Measure
+Forecasted Consumption = SUM('energy_forecasts'[predicted_consumption])
+
+// Anomaly Count
+Anomaly Count = CALCULATE(COUNTROWS('energy_anomalies'), 'energy_anomalies'[is_anomaly] = 1)
+
+// Solar Generation
+Solar Generation = SUM('energy_readings'[solar_generation])
+
+// Diesel Generation
+Diesel Generation = SUM('energy_readings'[diesel_generation])
+
+// Biogas Generation
+Biogas Generation = SUM('energy_readings'[biogas_generation])
+
+// Renewable Energy Contribution %
+Renewable Contribution % = 
+DIVIDE([Solar Generation] + [Biogas Generation], [Total Consumption], 0)
