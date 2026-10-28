@@ -5,7 +5,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import os
 
-st.set_page_config(page_title="Smart Campus Command Center", page_icon="âš¡", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="Predict Energy Consumption Analytics for Smart Campus Infrastructure", page_icon="âš¡", layout="wide", initial_sidebar_state="expanded")
 
 # --- Custom Enterprise CSS ---
 st.markdown("""
@@ -241,7 +241,7 @@ def get_facility_forecast(data_df, facility_col, days=7):
 
 # --- Sidebar ---
 with st.sidebar:
-    st.markdown("### âš¡ Smart Campus<br><span style='color:#00d2ff'>Energy Command</span>", unsafe_allow_html=True)
+    st.markdown("### âš¡ Smart Campus<br><span style='color:#00d2ff'>Energy Analytics</span>", unsafe_allow_html=True)
     st.markdown("<br>", unsafe_allow_html=True)
     
     page = st.radio("Navigation", [
